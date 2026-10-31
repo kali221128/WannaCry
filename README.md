@@ -1,4 +1,16 @@
-介绍：
+该资源主要复现了WannCry勒索病毒过程，包括对应的资源、文章和勒索病毒。希望对您有所帮助~
+本人坚决反对利用教学方法进行犯罪的行为，一切犯罪行为必将受到严惩，绿色网络需要我们共同维护，更推荐大家了解它们背后的原理，更好地进行防护。
+<div align="center">
+  <img src="https://img-blog.csdnimg.cn/20200413232834492.png" height="60%" width="60%" />
+</div>
+
+# 真正的WannaCry的执行流程
+<div align="center">
+  <img src="https://img-blog.csdnimg.cn/20200414014519105.png" height="60%" width="60%" />
+</div>
+
+
+# 下载及使用协议内容：
 1. 这是一个WannaCry模拟器，在原版的基础上移除了传播性和加密性。
 2. 并且它不会真正加密文件，只会改文件后缀，这个可以通过附带的文件恢复工具去恢复文件后缀。
 3. 会释放经过处理的所有原版组件，但不会轻易激活。
@@ -7,7 +19,3 @@
 6. 仅供安全演练与研究。
 7. 本WannaCry模拟器具备较大的安全研究价值，适合不敢运行真病毒的人研究，也可进行安全演练研究。
 *若下载本项目（WannaCry）则自愿同意以上所有协议！
-
-<div align="center">
-  <img src="https://static.leiphone.com/uploads/new/article/740_740/201705/591accb78f279.jpg?imageMogr2/format/jpg/quality/90" height="60%" width="60%" />
-</div>
