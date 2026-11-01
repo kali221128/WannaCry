@@ -6,12 +6,6 @@ I firmly oppose any criminal acts carried out using teaching methods. All crimin
   <img src="https://img-blog.csdnimg.cn/20200413232834492.png" height="60%" width="60%" />
 </div>
 
-<div class="container">
-  <video controls preload="auto">
-    <source src="https://raw.githubusercontent.com/kali221128/WannaCry/main/wcry.mp4" type="video/mp4">
-      </video>
-</div>
-
 # The execution flow of WannaCry
 <div align="center">
   <img src="https://img-blog.csdnimg.cn/20200414014519105.png" height="60%" width="60%" />
