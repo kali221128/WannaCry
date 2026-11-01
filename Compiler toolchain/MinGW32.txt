@@ -1,0 +1,1 @@
+MinGW GCC 9.2.0 32-bit Release
