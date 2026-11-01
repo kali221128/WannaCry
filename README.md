@@ -16,7 +16,7 @@ I firmly oppose any criminal acts carried out using teaching methods. All crimin
 2. It will not actually encrypt files; it only changes file extensions. The file extensions can be restored using the included file recovery tool.
 3. It will release all processed original components, but they will not be easily activated.
 4. This WannaCry simulator may be used freely by anyone (except malicious actors). However, the author assumes no responsibility for any harmful consequences.
-5. This WannaCry simulator is not open source. Only the finished EXE is available (to prevent malicious actors from modifying it into a virus with encryption and propagation capabilities).
+5. This WannaCry simulator is open source. Only the finished EXE is available (to prevent malicious actors from modifying it into a virus with encryption and propagation capabilities).
 6. For security drills and research only.
 7. This WannaCry simulator has significant value for security research. It is suitable for people who do not dare to run the real virus to study, and can also be used for security drill research.
 By downloading this project (WannaCry), you voluntarily agree to all the above terms!
